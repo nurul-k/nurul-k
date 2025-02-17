@@ -1,4 +1,4 @@
-![logo](https://github.com/nurul-k/nurul-k/blob/9e9ab2ca3d6951764c27589b8949e5a76d9db27b/Slide1.PNG)
+![logo](https://github.com/nurul-khan786/nurul-khan786/blob/9e9ab2ca3d6951764c27589b8949e5a76d9db27b/Slide1.PNG)
 <h1 align="center">Hi 👋, I'm Nurul Khan</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
